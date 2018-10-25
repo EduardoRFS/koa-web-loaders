@@ -1,0 +1,13 @@
+{
+  "author": "EduardoRFS",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "koa": "^2.6.1",
+    "koa-Router": "^1.0.5",
+    "koa-morgan": "^1.0.1",
+    "koa-static": "^5.0.0"
+  }
+}
